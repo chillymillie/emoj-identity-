@@ -1,0 +1,418 @@
+
+/*thumb emoji animations*/
+	#thumb-0 {
+		margin: auto;
+		position: relative;
+	    width: 212px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#thumb-0:hover {
+	    width: 232px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0);
+	    cursor:pointer;
+	  }
+	#thumb-1 {
+	    margin: auto;
+		position: relative;
+	    width: 203px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#thumb-1:hover {
+	    width: 223px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#thumb-3 {
+	    margin: auto;
+		position: relative;
+	    width: 204px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#thumb-3:hover {
+	    width: 224px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#thumb-4 {
+	    width: 169px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#thumb-4:hover {
+	    width: 189px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#thumb-5 {
+	    width: 168px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#thumb-5:hover {
+	    width: 188px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#thumb-6 {
+	    width: 160px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#thumb-6:hover {
+	    width: 180px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+
+/*clap emoji*/
+	#clap-0 {
+	    width: 219px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#clap-0:hover {
+	    width: 239px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#clap-1 {
+	    width: 212px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#clap-1:hover {
+	    width: 232px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#clap-3 {
+	    width: 188px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#clap-3:hover {
+	    width: 208px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#clap-4 {
+	    width: 172px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#clap-4:hover {
+	    width: 192px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#clap-5 {
+	    width: 164px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#clap-5:hover {
+	    width: 184px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#clap-6 {
+	    width: 160px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#clap-6:hover {
+	    width: 180px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+
+/*baby emoji*/
+	#baby-0 {
+	    width: 201px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#baby-0:hover {
+	    width: 221px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#baby-1 {
+	    width: 216px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#baby-1:hover {
+	    width: 236px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#baby-3 {
+	    width: 196px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#baby-3:hover {
+	    width: 216px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#baby-4 {
+	    width: 174px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#baby-4:hover {
+	    width: 194px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#baby-5 {
+	    width: 168px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#baby-5:hover {
+	    width: 188px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#baby-6 {
+	    width: 164px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#baby-6:hover {
+	    width: 184px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+
+/*cop emoji*/
+	#cop-0 {
+	    width: 200px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#cop-0:hover {
+	    width: 220px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#cop-1 {
+	    width: 241px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#cop-1:hover {
+	    width: 261px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#cop-3 {
+	    width: 168px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#cop-3:hover {
+	    width: 188px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#cop-4 {
+	    width: 178px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#cop-4:hover {
+	    width: 198px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#cop-5 {
+	    width: 164px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#cop-5:hover {
+	    width: 184px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#cop-6 {
+	    width: 160px;
+	    height: 160px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#cop-6:hover {
+	    width: 180px;
+	    height: 180px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+
+/*turban emoji*/
+	#turban-0 {
+	    width: 204px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#turban-0:hover {
+	    width: 224px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#turban-1 {
+	    width: 204px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#turban-1:hover {
+	    width: 224px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#turban-3 {
+	    width: 168px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#turban-3:hover {
+	    width: 188px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#turban-4 {
+	    width: 186px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#turban-4:hover {
+	    width: 206px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#turban-5 {
+	    width: 204px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#turban-5:hover {
+	    width: 224px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#turban-6 {
+	    width: 160px;
+	    height: 160px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#turban-6:hover {
+	    width: 180px;
+	    height: 180px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+
+/*princess emoji*/
+	#princess-0 {
+	    width: 190px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#princess-0:hover {
+	    width: 210px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#princess-1 {
+	    width: 211px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#princess-1:hover {
+	    width: 231px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#princess-3 {
+	    width: 203px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#princess-3:hover {
+	    width: 223px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#princess-4 {
+	    width: 184px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#princess-4:hover {
+	    width: 204px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#princess-5 {
+	    width: 172px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#princess-5:hover {
+	    width: 192px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
+	#princess-6 {
+	    width: 160px;
+	    -webkit-transition: width 1s, height 1s, -webkit-transform 11s; 
+	    transition: width 1s, height 1s, transform 1s;
+	  }
+	#princess-6:hover {
+	    width: 180px;
+	    -webkit-filter: drop-shadow(0px 0px 6px #fbffc0);
+	    filter: drop-shadow(0px 0px 6px #fbffc0); 
+	    cursor:pointer;
+	  }
