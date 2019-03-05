@@ -1,4 +1,5 @@
-# emoj(identity) - basic webiste coded without development frameworks
+# emoj(identity)
+## basic webiste coded without development frameworks
 
 This GitHub repository serves as storage for this basic website code (as I cannot host it on my Adobe Portfolio website)
 
